@@ -1,6 +1,36 @@
 # 📞 Customer Churn Analysis
 > A Power BI case study analyzing customer churn for a telecom company.
+---
 
+### 📉 Understanding Churn
+
+**Churn** (or **customer churn**), also known as customer attrition, is the phenomenon where customers stop doing business with a company or discontinue a service within a given time period. In the context of a subscription-based service, a customer has "churned" when they cancel their subscription.
+
+---
+
+### 📊 Churn Rate & Formula
+
+The **Churn Rate** is a business metric that calculates the percentage of subscribers who discontinue their subscriptions during a specific time period. It is a critical indicator of customer satisfaction, business health, and long-term profitability.
+
+The most common formula for calculating churn rate is:
+
+#### **Customer Churn Rate (%)**
+
+```
+Churn Rate = (Number of Customers Lost During Period / Total Number of Customers at Start of Period) * 100
+```
+
+**Example Calculation:**
+
+*   **Customers at Start of Period:** 500
+*   **Customers Lost During Period:** 25
+*   **Churn Rate:** (25 / 500) * 100 = **5%**
+
+---
+
+### 🤔 Why It Matters
+
+A high churn rate can signal problems with a company's product, pricing, or customer service. Conversely, a low churn rate suggests high customer satisfaction and loyalty. The primary goal of churn analysis is to identify the factors that cause customers to leave and develop strategies to improve **customer retention**.
 
 ---
 # Customer Churn Analysis Dataset
