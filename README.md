@@ -1,3 +1,8 @@
+# 📞 Customer Churn Analysis
+> A Power BI case study analyzing customer churn for a telecom company.
+
+
+---
 # Customer Churn Analysis Dataset
 
 This dataset contains information about customers of a telecom service provider, "Databel," and is designed for analyzing customer churn. The data includes demographic details, contract information, service usage, and charges.
@@ -59,3 +64,7 @@ This section covers service usage, plan details, and financial charges.
 
 ## Project Goal
 The primary goal of this dataset is to perform analysis and build models to predict customer churn. Understanding the factors that lead to churn can help develop strategies for customer retention.
+
+## 📊 Dashboard Preview
+## 🔍 Key Insights
+
